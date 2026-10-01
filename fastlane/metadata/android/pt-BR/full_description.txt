@@ -1,0 +1,5 @@
+THIGAS Music é uma versão personalizada do Musify, com identidade verde suave.
+
+Busca e reprodução online, playlists, biblioteca offline, letras, rádio, equalizador e sessões de foco de 1 a 180 minutos. A disponibilidade de streaming depende das fontes externas.
+
+Baseado no Musify de Valeri Gokadze e colaboradores. Créditos e licença GPL preservados.

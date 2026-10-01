@@ -1,0 +1,5 @@
+THIGAS Music is a customized Musify fork with a calm green identity.
+
+Features: online music search and playback, playlists, offline library, lyrics, radio, equalizer and focus sessions from 1 to 180 minutes. Streaming availability depends on external providers.
+
+Based on Musify by Valeri Gokadze and contributors. Original copyright notices and GPL licensing are preserved.
